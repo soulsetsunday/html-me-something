@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+h2{
+    border-bottom: 3px solid red;
+    text-align:center;
+}
+
+img {
+    border: 2px solid black
+
+}
